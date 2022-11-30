@@ -9,7 +9,7 @@
     "fp-ts": "^2.11.2",
     "htmlhint": "^0.15.2",
     "lite-server": "^2.6.1",
-    "prettier": "^2.4.1",
+    "prettier": "2.8.0",
     "simple-git-hooks": "^2.6.1",
     "typescript": "^4.4.3",
     "wcag-color": "^1.1.1",
@@ -25,5 +25,7 @@
   },
   "simple-git-hooks": {
     "pre-commit": "yarn hook:pre-commit"
-  }
+  },
+  "repository": "https://github.com/Tetsu-is/html-stations.git",
+  "author": "Tetsu-is <hap30305@kwansei.ac.jp>"
 }
